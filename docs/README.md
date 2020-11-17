@@ -15,4 +15,4 @@ Our goal is to have a fully functioning discord server with music, reaction role
 <br/><br/>
 This bot is coded with the [discord.js](discord.js.org) wrapper lib.
 
-Get Started with Scrap
+Use the sidebar to see what we can do.
