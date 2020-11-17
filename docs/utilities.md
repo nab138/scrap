@@ -6,7 +6,7 @@
 
 Get the bot and DiscordAPI ping.
 
-Required Permissions: NONE
+Required Permissions: None
 <br/><br/>
 
 ## Reminders
@@ -14,7 +14,7 @@ Required Permissions: NONE
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
 
-Required Permissions: NONE
+Required Permissions: None
 <br/><br/>
 
 ## Avatar Fetcher
@@ -22,7 +22,7 @@ Required Permissions: NONE
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
 
-Required Permissions: NONE
+Required Permissions: None
 <br/><br/>
 
 ## User Info Fetcher
@@ -46,7 +46,7 @@ Gets the following info about the mentioned user:
 
 + All roles in current server
 
-Required Permissions: NONE
+Required Permissions: None
 <br/><br/>
 
 ## Afk
@@ -61,7 +61,7 @@ If your AFK is on it will be turned off.
 
 Your AFK will be displayed in your [user info](#user-info-fetcher) and will be shown when you are mentioned.
 
-Required Permissions: NONE
+Required Permissions: None
 <br/><br/>
 
 ## Purge
