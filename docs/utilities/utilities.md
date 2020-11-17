@@ -26,8 +26,23 @@ Gets the following info about the mentioned user:
 User ID
 User nickname in current guild
 User status
-User [AFK](utilities/utilities.md) Info
+User [AFK](utilities/utilities.md#afk) Info
 <br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 
 ## afk
 
