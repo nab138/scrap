@@ -24,25 +24,30 @@ Get the avatar of the mentioned user, or yourself if no mentions are found.
 
 Gets the following info about the mentioned user:
 User ID
+
 User nickname in current guild
+
 User status
-User [AFK](utilities.md#afk) Info
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
+User [AFK](utilities.md#Afk) Info
+
+Is user a bot?
+
+Server join date
+
+Account creation date
+
+All roles in current server
 <br/><br/>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
+## Afk
 
+``s!afk [message]``
 
-## afk
+Toggle your afk.
 
+If your AFK is off your afk will be turned on and set to the message you provided, or "AFK" if no message is provided.
+
+If your AFK is on it will be turned off.
+
+Your AFK will be displayed in your [user info](utilities.md#User%20Info%20Fetcher) and will be shown when you are mentioned.
