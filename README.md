@@ -4,7 +4,7 @@ Repository for the Scrap Discord Bot
 
 [Discord server](https://discord.gg/k6bMcs8CKA) 
 
-Docs
+[Docs](https://nab138.github.io/scrap)
 
 **What is Scrap?** Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more. 
 
