@@ -1,6 +1,6 @@
 
 # Scrap
-Repository for the Scrap Discord Bot
+Repository for the Scrap Discord Bot eeeeee
 
 [Discord server](https://discord.gg/k6bMcs8CKA) 
 
