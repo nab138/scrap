@@ -23,21 +23,22 @@ Get the avatar of the mentioned user, or yourself if no mentions are found.
 ``s!userinfo @target``
 
 Gets the following info about the mentioned user:
-User ID
 
-User nickname in current guild
++ User ID
 
-User status
++ User nickname in current guild
 
-User [AFK](utilities.md#Afk) Info
++ User status
 
-Is user a bot?
++ User [AFK](utilities.md#Afk) Info
 
-Server join date
++ Is user a bot?
 
-Account creation date
++ Server join date
 
-All roles in current server
++ Account creation date
+
++ All roles in current server
 <br/><br/>
 
 ## Afk
