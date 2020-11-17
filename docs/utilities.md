@@ -12,7 +12,6 @@ Get the bot and DiscordAPI ping.
 > Required bot permissions: SEND_MESSAGES
 
 <br/><br/>
-
 ## Reminders
 ``s!remind/rm [delay] [message]``
 
@@ -22,12 +21,10 @@ Remind you about your message after your delay has passed. The bot will dm you w
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
-
-
+<br/><br/>
 Note that user must be accepting DM's.
 
 <br/><br/>
-
 ## Avatar Fetcher
 ``s!avatar @target``
 
@@ -39,7 +36,6 @@ Get the avatar of the mentioned user, or yourself if no mentions are found.
 > Required bot permissions: SEND_MESSAGES
 
 <br/><br/>
-
 ## User Info Fetcher
 ``s!userinfo @target``
 
@@ -67,7 +63,6 @@ Gets the following info about the mentioned user:
 > Required bot permissions: SEND_MESSAGES
 
 <br/><br/>
-
 ## Afk
 
 ``s!afk [message]``
@@ -86,7 +81,6 @@ Your AFK will be displayed in your [user info](#user-info-fetcher) and will be s
 > Required bot permissions: SEND_MESSAGES, MANAGE_NICKNAMES
 
 <br/><br/>
-
 ## Purge
 
 ``s!purge [quantity]``
@@ -99,7 +93,6 @@ Delete the specified number of messages in the current channel.
 > Required bot permissions: SEND_MESSAGES, MANAGE_MESSAGES
 
 <br/><br/>
-
 ## Snipe
 
 ``s!snipe``
@@ -110,8 +103,8 @@ Retrieve the last deleted message in the current channel
 > Required user permissions: VIEW_AUDIT_LOG
 
 > Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
-<br/><br/>
 
+<br/><br/>
 ## Edit Snipe
 
 ``s!esnipe``
