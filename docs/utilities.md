@@ -6,7 +6,9 @@
 
 Get the bot and DiscordAPI ping.
 
+
 > Required user permissions: None
+
 > Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
@@ -15,10 +17,13 @@ Get the bot and DiscordAPI ping.
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
 
+
 > Required user permissions: None
+
 > Required bot permissions: SEND_MESSAGES
 
-Note user must be accepting DM's.
+
+Note that user must be accepting DM's.
 
 <br/><br/>
 
@@ -27,7 +32,9 @@ Note user must be accepting DM's.
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
 
+
 > Required user permissions: None
+
 > Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
@@ -52,7 +59,9 @@ Gets the following info about the mentioned user:
 
 + All roles in current server
 
+
 > Required user permissions: None
+
 > Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
@@ -68,7 +77,9 @@ If your AFK is on it will be turned off.
 
 Your AFK will be displayed in your [user info](#user-info-fetcher) and will be shown when you are mentioned.
 
+
 > Required user permissions: None
+
 > Required bot permissions: SEND_MESSAGES, MANAGE_NICKNAMES
 <br/><br/>
 
@@ -78,7 +89,9 @@ Your AFK will be displayed in your [user info](#user-info-fetcher) and will be s
 
 Delete the specified number of messages in the current channel. 
 
+
 > Required user permissions: MANAGE_MESSAGES
+
 > Required bot permissions: SEND_MESSAGES, MANAGE_MESSAGES
 <br/><br/>
 
@@ -88,7 +101,9 @@ Delete the specified number of messages in the current channel.
 
 Retrieve the last deleted message in the current channel
 
+
 > Required user permissions: VIEW_AUDIT_LOG
+
 > Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
 <br/><br/>
 
@@ -98,5 +113,7 @@ Retrieve the last deleted message in the current channel
 
 Retrieve the content of the last edited message in the current channel, both before and after edits.
 
+
 > Required user permissions: VIEW_AUDIT_LOG
+
 > Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
