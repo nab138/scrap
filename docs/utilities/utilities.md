@@ -14,7 +14,20 @@ Remind you about your message after your delay has passed. The bot will dm you w
 <br/><br/>
 
 ## Avatar Fetcher
-
 ``s!avatar @target``
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
+<br/><br/>
+
+## User Info Fetcher
+``s!userinfo @target``
+
+Gets the following info about the mentioned user:
+User ID
+User nickname in current guild
+User status
+User [AFK][utilities/utilities.md#afk] Info
+<br/><br/>
+
+## afk
+
