@@ -50,4 +50,4 @@ If your AFK is off your afk will be turned on and set to the message you provide
 
 If your AFK is on it will be turned off.
 
-Your AFK will be displayed in your [user info](utilities.md#User%20Info%20Fetcher) and will be shown when you are mentioned.
+Your AFK will be displayed in your [user info](utilities.md#user-info-fetcher) and will be shown when you are mentioned.
