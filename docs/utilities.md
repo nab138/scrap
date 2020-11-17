@@ -6,7 +6,7 @@
 
 Get the bot and DiscordAPI ping.
 
-
+<br/><br/>
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
@@ -18,7 +18,7 @@ Get the bot and DiscordAPI ping.
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
 
-
+<br/><br/>
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
@@ -33,7 +33,7 @@ Note that user must be accepting DM's.
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
 
-
+<br/><br/>
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
@@ -61,7 +61,7 @@ Gets the following info about the mentioned user:
 
 + All roles in current server
 
-
+<br/><br/>
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
@@ -80,7 +80,7 @@ If your AFK is on it will be turned off.
 
 Your AFK will be displayed in your [user info](#user-info-fetcher) and will be shown when you are mentioned.
 
-
+<br/><br/>
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES, MANAGE_NICKNAMES
@@ -93,7 +93,7 @@ Your AFK will be displayed in your [user info](#user-info-fetcher) and will be s
 
 Delete the specified number of messages in the current channel. 
 
-
+<br/><br/>
 > Required user permissions: MANAGE_MESSAGES
 
 > Required bot permissions: SEND_MESSAGES, MANAGE_MESSAGES
@@ -106,7 +106,7 @@ Delete the specified number of messages in the current channel.
 
 Retrieve the last deleted message in the current channel
 
-
+<br/><br/>
 > Required user permissions: VIEW_AUDIT_LOG
 
 > Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
@@ -118,7 +118,7 @@ Retrieve the last deleted message in the current channel
 
 Retrieve the content of the last edited message in the current channel, both before and after edits.
 
-
+<br/><br/>
 > Required user permissions: VIEW_AUDIT_LOG
 
 > Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
