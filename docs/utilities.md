@@ -6,7 +6,8 @@
 
 Get the bot and DiscordAPI ping.
 
-Required Permissions: None
+> Required user permissions: None
+> Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
 ## Reminders
@@ -14,7 +15,11 @@ Required Permissions: None
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
 
-Required Permissions: None
+> Required user permissions: None
+> Required bot permissions: SEND_MESSAGES
+
+Note user must be accepting DM's.
+
 <br/><br/>
 
 ## Avatar Fetcher
@@ -22,7 +27,8 @@ Required Permissions: None
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
 
-Required Permissions: None
+> Required user permissions: None
+> Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
 ## User Info Fetcher
@@ -46,7 +52,8 @@ Gets the following info about the mentioned user:
 
 + All roles in current server
 
-Required Permissions: None
+> Required user permissions: None
+> Required bot permissions: SEND_MESSAGES
 <br/><br/>
 
 ## Afk
@@ -61,7 +68,8 @@ If your AFK is on it will be turned off.
 
 Your AFK will be displayed in your [user info](#user-info-fetcher) and will be shown when you are mentioned.
 
-Required Permissions: None
+> Required user permissions: None
+> Required bot permissions: SEND_MESSAGES, MANAGE_NICKNAMES
 <br/><br/>
 
 ## Purge
@@ -70,7 +78,8 @@ Required Permissions: None
 
 Delete the specified number of messages in the current channel. 
 
-Required Permissions: MANAGE_MESSAGES
+> Required user permissions: MANAGE_MESSAGES
+> Required bot permissions: SEND_MESSAGES, MANAGE_MESSAGES
 <br/><br/>
 
 ## Snipe
@@ -79,7 +88,8 @@ Required Permissions: MANAGE_MESSAGES
 
 Retrieve the last deleted message in the current channel
 
-Required Permissions: VIEW_AUDIT_LOG
+> Required user permissions: VIEW_AUDIT_LOG
+> Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
 <br/><br/>
 
 ## Edit Snipe
@@ -88,4 +98,5 @@ Required Permissions: VIEW_AUDIT_LOG
 
 Retrieve the content of the last edited message in the current channel, both before and after edits.
 
-Required Permissions: VIEW_AUDIT_LOG
+> Required user permissions: VIEW_AUDIT_LOG
+> Required bot permissions: SEND_MESSAGES, READ_MESSAGE_HISTORY, VIEW_CHANNEL
