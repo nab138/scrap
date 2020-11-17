@@ -10,6 +10,7 @@ Get the bot and DiscordAPI ping.
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
+
 <br/><br/>
 
 ## Reminders
@@ -36,6 +37,7 @@ Get the avatar of the mentioned user, or yourself if no mentions are found.
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
+
 <br/><br/>
 
 ## User Info Fetcher
@@ -63,6 +65,7 @@ Gets the following info about the mentioned user:
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES
+
 <br/><br/>
 
 ## Afk
@@ -81,6 +84,7 @@ Your AFK will be displayed in your [user info](#user-info-fetcher) and will be s
 > Required user permissions: None
 
 > Required bot permissions: SEND_MESSAGES, MANAGE_NICKNAMES
+
 <br/><br/>
 
 ## Purge
@@ -93,6 +97,7 @@ Delete the specified number of messages in the current channel.
 > Required user permissions: MANAGE_MESSAGES
 
 > Required bot permissions: SEND_MESSAGES, MANAGE_MESSAGES
+
 <br/><br/>
 
 ## Snipe
