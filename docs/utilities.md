@@ -5,7 +5,6 @@
 ``s!ping``
 
 Get the bot and DiscordAPI ping.
-
 <br/><br/>
 > Required user permissions: None
 
@@ -16,7 +15,6 @@ Get the bot and DiscordAPI ping.
 ``s!remind/rm [delay] [message]``
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
-
 <br/><br/>
 > Required user permissions: None
 
@@ -29,7 +27,6 @@ Note that user must be accepting DM's.
 ``s!avatar @target``
 
 Get the avatar of the mentioned user, or yourself if no mentions are found.
-
 <br/><br/>
 > Required user permissions: None
 
@@ -56,7 +53,6 @@ Gets the following info about the mentioned user:
 + Account creation date
 
 + All roles in current server
-
 <br/><br/>
 > Required user permissions: None
 
@@ -74,7 +70,6 @@ If your AFK is off your afk will be turned on and set to the message you provide
 If your AFK is on it will be turned off.
 
 Your AFK will be displayed in your [user info](#user-info-fetcher) and will be shown when you are mentioned.
-
 <br/><br/>
 > Required user permissions: None
 
@@ -86,7 +81,6 @@ Your AFK will be displayed in your [user info](#user-info-fetcher) and will be s
 ``s!purge [quantity]``
 
 Delete the specified number of messages in the current channel. 
-
 <br/><br/>
 > Required user permissions: MANAGE_MESSAGES
 
@@ -98,7 +92,6 @@ Delete the specified number of messages in the current channel.
 ``s!snipe``
 
 Retrieve the last deleted message in the current channel
-
 <br/><br/>
 > Required user permissions: VIEW_AUDIT_LOG
 
@@ -110,7 +103,6 @@ Retrieve the last deleted message in the current channel
 ``s!esnipe``
 
 Retrieve the content of the last edited message in the current channel, both before and after edits.
-
 <br/><br/>
 > Required user permissions: VIEW_AUDIT_LOG
 
