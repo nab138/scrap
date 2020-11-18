@@ -9,6 +9,7 @@ Learn about our games!
 
 Use Reactions to control a game of snake. Use the arrows to move in the direction they point in and the X to end the game.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
@@ -32,6 +33,7 @@ Required bot permissions: ``SEND_MESSAGES``
 
 Send a random trivia question. First person send the correct answer in the channel the question was sent wins.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
@@ -52,7 +54,7 @@ Play a game of battleship against a friend. You will be dmed with instructions o
 <br/><br/>
 > Note that the user who started the game and the opponent must have DM's on.
 
-<br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
@@ -65,6 +67,7 @@ Required bot permissions: ``SEND_MESSAGES``
 Use Reactions to play a game of tic tac toe against an AI. Experimental multiplayer exists, you can try ``s!ttt @opponent`` but it most likley won't work.
 Note that only 1 game can be run per server due to some async issues.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
