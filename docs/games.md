@@ -20,6 +20,7 @@ Required bot permissions: ``SEND_MESSAGES``
 
 Use Reactions to play a game of connect four. Turns will alternate between red and yellow, you don't need to mention your oponnent.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
