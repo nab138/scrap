@@ -5,3 +5,4 @@
 * [Music](music)
 * [Games](games)
 * [Moderation](moderation)
+* [Music](music)
