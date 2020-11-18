@@ -1,5 +1,21 @@
 # Moderation
 
+<!-- tabs:start -->
+
+#### ** English **
+
+Hello!
+
+#### ** French **
+
+Bonjour!
+
+#### ** Italian **
+
+Ciao!
+
+<!-- tabs:end -->
+
 Learn about our moderation commands!
 
 ## Warns
