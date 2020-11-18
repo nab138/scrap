@@ -48,6 +48,7 @@ Hangman coming soon!
 ``s!battleship @opponent``
 
 Play a game of battleship against a friend. You will be dmed with instructions once the opponent accepts the request to play with you.
+
 <br/<br/>
 
 > Note that the user who started the game and the opponent must have DM's on.
