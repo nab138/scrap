@@ -16,6 +16,7 @@ Required user permissions: ``VIEW_AUDIT_LOG``
 
 Required bot permissions: ``SEND_MESSAGES``
 <br/><br/>
+
 ``s!warns @target``
 
 Retrieve all warns from the mentioned user, or yourself if nobody is mentioned.
@@ -25,6 +26,7 @@ Required user permissions: ``VIEW_AUDIT_LOG`` (This permission is only needed if
 
 Required bot permissions: ``SEND_MESSAGES``
 <br/><br/>
+
 ``s!clearwarns @target``
 
 Clear all warns from the mentioned user, or yourself if nobody is mentioned.
