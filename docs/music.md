@@ -64,4 +64,18 @@ Required user permissions: ``None``
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 
 <br/><br/>
+## Effects
+
+``m![effect]``
+
+Apply the specified effect.
+
+
+Valid effects: 3D, bassboost, nightcore, more to be listed soon
+<br/><br/>
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+<br/><br/>
 ### There is much more, check back later
