@@ -7,8 +7,8 @@ Learn about our music commands!
 ``s!rickroll``
 
 Join the voice channel you are in and begin playing Never Gonna Give You Up by Rick Astley.
-
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
@@ -21,6 +21,7 @@ Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 Add the specified URL to the queue. If supplied song is not a valid YouTube URL it will be searched on YouTube and you will be provided with a list of the top 10 results. You can choose which one you want by sending the corresponding number, and the bot will add that song to the queue.
 The first song in the queue will be played, and when it is over it will go to the next song in the queue.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
@@ -32,6 +33,7 @@ Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 
 Clears the queue, stops the music and leaves the voice channel.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
@@ -43,6 +45,7 @@ Required bot permissions: ``SEND_MESSAGES``
 
 Temporarily stops the music.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
