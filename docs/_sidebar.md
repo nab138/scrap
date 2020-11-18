@@ -2,5 +2,6 @@
 
 * [Home](/)
 * [Utilities](utilities)
+* [Music](music)
+* [Games](games
 * [Moderation](moderation)
-* [Games](games)
