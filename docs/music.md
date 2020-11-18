@@ -2,6 +2,8 @@
 
 Learn about our music commands!
 
+> Note: For all of these commands the bot must not be muted.
+
 ## Rickroll
 
 ``s!rickroll``
