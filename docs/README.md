@@ -10,6 +10,7 @@ Because these docs are unfinished, you have to run s!help in a discord server wh
 [Discord server](https://discord.gg/k6bMcs8CKA) 
 <br/><br/>
 
+Bot invite: Coming at around 3:00 PM GMT-4000 (Eastern Standard Time)
 ### What is Scrap?
 
 Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more. 
