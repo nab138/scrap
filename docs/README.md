@@ -13,7 +13,7 @@ Because these docs are unfinished, you have to run s!help in a discord server wh
 **What is Scrap?** 
 
 Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more. 
-
+<br/><br/>
 **Our Goal:** 
 
 Our goal is to have a fully functioning discord server with music, reaction roles, moderation and more with only 1 bot: Scrap. We want to simplify discord servers, and get rid of all that lengthy setup time and wondering what bots to add.
