@@ -15,7 +15,7 @@ Warn the target user for the specified reason. They will be notified in DM's and
 Required user permissions: ``VIEW_AUDIT_LOG``
 
 Required bot permissions: ``SEND_MESSAGES``
-
+<br/><br/>
 ``s!warns @target``
 
 Retrieve all warns from the mentioned user, or yourself if nobody is mentioned.
@@ -24,7 +24,7 @@ Retrieve all warns from the mentioned user, or yourself if nobody is mentioned.
 Required user permissions: ``VIEW_AUDIT_LOG`` (This permission is only needed if somebody is trying to view warns that do not belong to them.)
 
 Required bot permissions: ``SEND_MESSAGES``
-
+<br/><br/>
 ``s!clearwarns @target``
 
 Clear all warns from the mentioned user, or yourself if nobody is mentioned.
