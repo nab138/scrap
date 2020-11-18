@@ -18,7 +18,7 @@ Remind you about your message after your delay has passed. The bot will dm you w
 <br/><br/>
 > Note that the user who used the command must be accepting DM's.
 
-<br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
