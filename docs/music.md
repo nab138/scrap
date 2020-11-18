@@ -2,7 +2,7 @@
 
 Learn about our music commands!
 
-> Note: For all of these commands the bot must not be muted.
+> Note: For all of these commands the bot must not be server muted.
 
 ## Rickroll
 
