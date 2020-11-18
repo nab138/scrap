@@ -1,5 +1,7 @@
 # Utilities
 
+Learn about our utility commands!
+
 ## Ping
 
 ``s!ping``
