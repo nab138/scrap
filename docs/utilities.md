@@ -16,12 +16,11 @@ Required bot permissions: ``SEND_MESSAGES``
 
 Remind you about your message after your delay has passed. The bot will dm you with your message.
 <br/><br/>
+> Note that the user who used the command must be accepting DM's.
+<br/><br/>
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES``
-
-
-> Note that user must be accepting DM's.
 
 <br/><br/>
 ## Avatar Fetcher
