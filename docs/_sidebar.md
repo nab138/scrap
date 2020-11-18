@@ -3,5 +3,5 @@
 * [Home](/)
 * [Utilities](utilities)
 * [Music](music)
-* [Games](games
+* [Games](games)
 * [Moderation](moderation)
