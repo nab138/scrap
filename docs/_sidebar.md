@@ -6,3 +6,4 @@
 * [Games](games)
 * [Moderation](moderation)
 * [Giveaways](giveaways)
+* [Miscellaneous](misc)
