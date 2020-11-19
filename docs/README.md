@@ -3,6 +3,9 @@
 
 Documentation for the Scrap Discord Bot
 
+## A note to whoever is reviewing this site for scrap.js.org
+This is a fraction of the site. There are multiple .md files in this folder. This site is built with docsify and has nice sidebars and search features, but only when the actual site it up.
+
 ## ⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
