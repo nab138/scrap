@@ -2,18 +2,6 @@
 
 Learn about our utility commands!
 
-## Ping
-
-``s!ping``
-
-Get the bot and DiscordAPI ping.
-<br/><br/>
-
-Required user permissions: ``None``
-
-Required bot permissions: ``SEND_MESSAGES``
-
-<br/><br/>
 ## Reminders
 ``s!remind/rm [delay] [message]``
 
