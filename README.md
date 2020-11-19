@@ -2,8 +2,6 @@
 # Scrap
 Repository for the Scrap Discord Bot
 
-## A note to whoever is reviewing this site for scrap.js.org
-This is a fraction of the site. There are multiple .md files in the docs folder that contain most of the actual site.
 
 [Discord server](https://discord.gg/k6bMcs8CKA) 
 
