@@ -1,6 +1,6 @@
 # Miscellaneous
 
-## Learn about our commands that don't fit into any of our other catagories.
+Learn about our commands that don't fit into any of our other catagories.
 
 ## Meme
 
