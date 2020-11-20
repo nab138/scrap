@@ -13,6 +13,7 @@ Learn about our moderation commands!
 Add the muted role to the target user for the specified reason.
 
 If there is no muted role you can create one with the Create muterole command.
+
 <br/><br/>
 Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
 
