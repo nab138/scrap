@@ -16,7 +16,7 @@ Because these docs are unfinished, you have to run s!help in a discord server wh
 [Discord server](https://discord.gg/k6bMcs8CKA) 
 <br/><br/>
 
-[Bot invite](https://discord.com/oauth2/authorize?client_id=777879536138321930&scope=bot&permissions=8)
+[Bot invite](https://discord.com/oauth2/authorize?client_id=777879536138321930&permissions=2147483639&redirect_uri=https%3A%2F%2Fscrap.js.org%2Flanding&scope=bot&response_type=code)
 ### What is Scrap?
 
 Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more.
