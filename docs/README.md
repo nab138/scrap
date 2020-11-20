@@ -3,6 +3,12 @@
 
 Documentation for the Scrap Discord Bot
 
+## A note to whoever is reviewing this site for scrap.js.org
+
+This is a fraction of the site.
+
+You can review individual readmes, or if the site was up and running (which it is, it just needs your aproval) there would be a sidebar for easy navigation and a search box.
+
 ## ⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.

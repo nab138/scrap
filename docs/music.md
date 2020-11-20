@@ -4,18 +4,6 @@ Learn about our music commands!
 
 > Note: For all of these commands the bot must not be server muted.
 
-## Rickroll
-
-``s!rickroll``
-
-Join the voice channel you are in and begin playing Never Gonna Give You Up by Rick Astley.
-<br/><br/>
-
-Required user permissions: ``None``
-
-Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
-
-<br/><br/>
 ## Play
 
 ``m!play [url/search term]``
@@ -50,7 +38,7 @@ Temporarily stops the music.
 
 Required user permissions: ``None``
 
-Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+Required bot permissions: ``SEND_MESSAGES``
 
 <br/><br/>
 ## Resume
@@ -59,23 +47,119 @@ Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 
 Starts playing the music after pausing it.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 
 <br/><br/>
+
+## Get queue
+
+``m!queue``
+
+Display the current queue of songs.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES``
+
+<br/><br/>
+
+## Skip
+
+``m!skip``
+
+Skip the current song and move on to the next song in the queue.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES``
+
+<br/><br/>
+
+## Looping
+
+<!-- tabs:start -->
+
+#### ** Song Loop **
+
+``m!loop``
+
+Loop the current song infinetly.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+#### ** Queue Loop **
+
+``m!Qloop``
+
+Loop the current queue infinetly.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+#### ** Disable Looping **
+
+``m!Dloop``
+
+Stop looping the queue or the current song.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+<!-- tabs:end -->
+
+<br/><br/>
+
 ## Effects
 
 ``m![effect]``
 
 Apply the specified effect.
 
-
-Valid effects: 3D, bassboost, nightcore, more to be listed soon
+Valid effects: 3D, bassboost, echo, karaoke, nightcore, and vaporwave.
 <br/><br/>
+
 Required user permissions: ``None``
 
 Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
 
 <br/><br/>
-### There is much more, check back later
+
+## Autoplay
+
+``m!autoplay``
+
+Toggle autoplay. When autoplay is on, and the queue ends, youtube decides what's next instead of the music ending.
+
+Autoplay is turned off by default when music starts.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+<br/><br/>
+
+## Rickroll
+
+``s!rickroll``
+
+Join the voice channel you are in and begin playing Never Gonna Give You Up by Rick Astley.
+<br/><br/>
+
+Required user permissions: ``None``
+
+Required bot permissions: ``SEND_MESSAGES, CONNECT, SPEAK``
+
+<br/><br/>

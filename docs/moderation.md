@@ -45,6 +45,16 @@ Required bot permissions: ``SEND_MESSAGES``
 
 <!-- tabs:end -->
 
+## Slowmode Manager
+
+``s!slowmode [duration]``
+
+Set the slowmode of the current channel to the specified duration.
+
+<br/><br/>
+Required user permissions: ``MANAGE_CHANNELS``
+
+Required bot permissions: ``SEND_MESSAGES``
 ## Bans
 
 ``s!ban @target [reason]``
