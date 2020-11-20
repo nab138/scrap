@@ -2,6 +2,63 @@
 
 Learn about our moderation commands!
 
+## Mutes
+
+<!-- tabs:start -->
+
+#### ** Mute **
+
+``s!warn @target [reason]``
+
+Add the muted role to the target user for the specified reason.
+
+If there is no muted role you can create one with the Create muterole command.
+
+<br/><br/>
+Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
+
+Required bot permissions: ``SEND_MESSAGES, MANAGE_ROLES_OR_PERMISSIONS``
+
+#### ** Unmute **
+
+``s!unmute @target [reason]``
+
+
+Remove the muted role to the target user for the specified reason.
+
+If there is no muted role you can create one with the Create muterole command.
+
+<br/><br/>
+Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
+
+Required bot permissions: ``SEND_MESSAGES, MANAGE_ROLES_OR_PERMISSIONS``
+
+#### ** Create muterole **
+
+``s!createmuterole``
+
+Create a role called "Muted" with a black color. The role will be placed directly under the bot's highest role and all channels the bot has access to will have a permission override that prevents users with the Muted role from speaking. If any new channels are created after the muted role is made, permission overrides must be manually added.
+
+<br/><br/>
+Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
+
+Required bot permissions: ``SEND_MESSAGES, MANAGE_ROLES_OR_PERMISSIONS``
+
+<!-- tabs:end -->
+
+## Slowmode Manager
+
+``s!slowmode [duration]``
+
+Set the slowmode of the current channel to the specified duration.
+
+Input should be an integer which will get interpreted as seconds.
+
+<br/><br/>
+Required user permissions: ``MANAGE_CHANNELS``
+
+Required bot permissions: ``SEND_MESSAGES``
+
 ## Warns
 
 <!-- tabs:start -->
@@ -44,17 +101,6 @@ Required user permissions: ``VIEW_AUDIT_LOG``
 Required bot permissions: ``SEND_MESSAGES``
 
 <!-- tabs:end -->
-
-## Slowmode Manager
-
-``s!slowmode [duration]``
-
-Set the slowmode of the current channel to the specified duration.
-
-<br/><br/>
-Required user permissions: ``MANAGE_CHANNELS``
-
-Required bot permissions: ``SEND_MESSAGES``
 ## Bans
 
 ``s!ban @target [reason]``
@@ -62,7 +108,7 @@ Required bot permissions: ``SEND_MESSAGES``
 Ban the mentioned member. The member will be notified and will see the reason. The reason will also be put in the audit log.
 
 
-> Note that the target must have DM's on in order to be notified of the ban.
+> Note that the target must be accepting DM's in order to be notified of the ban.
 
 <br/><br/>
 Required user permissions: ``BAN_MEMBERS``
@@ -76,7 +122,7 @@ Required bot permissions: ``SEND_MESSAGES, BAN_MEMBERS``
 Ban the mentioned member. The member will be notified and will see the reason. The reason will also be put in the audit log.
 
 
-> Note that the target must have DM's on in order to be notified of the kick.
+> Note that the target must be accepting DM's in order to be notified of the kick.
 
 <br/><br/>
 Required user permissions: ``KICK_MEMBERS``
