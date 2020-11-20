@@ -12,7 +12,7 @@ Learn about our moderation commands!
 
 Add the muted role to the target user for the specified reason.
 
-
+If there is no muted role you can create one with the Create muterole command.
 <br/><br/>
 Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
 
@@ -20,16 +20,19 @@ Required bot permissions: ``SEND_MESSAGES, MANAGE_ROLES_OR_PERMISSIONS``
 
 #### ** Unmute **
 
-``s!warns @target``
+``s!unmute @target [reason]``
 
-Unmute the target user.
+
+Remove the muted role to the target user for the specified reason.
+
+If there is no muted role you can create one with the Create muterole command.
 
 <br/><br/>
 Required user permissions: ``MANAGE_ROLES_OR_PERMISSIONS``
 
 Required bot permissions: ``SEND_MESSAGES, MANAGE_ROLES_OR_PERMISSIONS``
 
-#### ** Create mute role **
+#### ** Create muterole **
 
 ``s!createmuterole``
 
