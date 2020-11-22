@@ -7,10 +7,16 @@ Documentation for the Scrap Discord Bot
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
 
-[Discord server](https://discord.gg/k6bMcs8CKA) 
+<form action="https://discord.gg/k6bMcs8CKA">
+  <input type="submit" value="Join the server" />
+</form>
+
 <br/><br/>
 
-[Bot invite](https://discord.com/oauth2/authorize?client_id=777879536138321930&permissions=2147483639&redirect_uri=https%3A%2F%2Fscrap.js.org%2Flanding&scope=bot&response_type=code)
+<form action="https://discord.com/oauth2/authorize?client_id=777879536138321930&permissions=2147483639&redirect_uri=https%3A%2F%2Fscrap.js.org%2Flanding&scope=bot&response_type=code">
+  <input type="submit" value="Invite the bot" />
+</form>
+
 ### What is Scrap?
 
 Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more.
