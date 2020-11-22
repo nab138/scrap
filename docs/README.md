@@ -28,3 +28,22 @@ Our goal is to have a fully functioning discord server with music, reaction role
 <br/><br/>
 <br/><br/>
 This bot is coded with the [discord.js](https://discord.js.org) wrapper lib.
+
+### Scrap Beta
+
+Learn about the Beta version of Scrap!
+<br/><br/>
+
+<form action="https://scrap.js.org/beta">
+  <input type="submit" value="Visit" />
+</form>
+
+### Media
+
+All media that Scrap needs (and some more) is found here!
+
+<br/><br/>
+
+<form action="https://scrap.js.org/media">
+  <input type="submit" value="Visit" />
+</form>
