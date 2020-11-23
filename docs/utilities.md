@@ -15,6 +15,31 @@ Required user permissions: ``None``
 Required bot permissions: ``SEND_MESSAGES``
 
 <br/><br/>
+
+<!-- tabs:start -->
+
+#### ** Create **
+
+``s!rrcreate [messageID] [channelID] :emoji: [rolename/@role]``
+
+Reacts to the message assosiated with the specified message ID with the specified emoji. When a user reacts with the same reaction the specified role will be added to them.
+
+Currently custom emoji's are not supported.
+
+Please provide the channel ID for the channel the target message is in. We know it seems unneccesary but without it the bot will take ages to add the reaction and will destory our server.
+
+You can type the role name (even if the role has a space in it, like "Example Role" you can still type the exact name [Don't remove spaces]) or you can @mention the role.
+
+#### ** Delete **
+
+``s!rrdelete [messageID] :emoji:``
+
+Remove the reaction role assosiated with the specified emoji on the specified message. The bot will unreact.
+
+Currently error handling is very poor with this command and the bot may say it deleted the reaction role even if it didn't/there was no reaction role, the bot may say nothing or return the actual error.
+
+<!-- tabs:end -->
+
 ## Avatar Fetcher
 ``s!avatar @target``
 
