@@ -7,7 +7,7 @@ Documentation for the Scrap Discord Bot
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
 
-<form action="https://discord.com/oauth2/authorize?client_id=777879536138321930&permissions=2147483639&redirect_uri=https%3A%2F%2Fscrap.js.org%2Flanding&scope=bot&response_type=code">
+<form action="https://scrap.js.org/invite">
   <input type="submit" value="Invite the bot" />
 </form>
 
