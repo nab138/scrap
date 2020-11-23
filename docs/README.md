@@ -3,7 +3,7 @@
 
 Documentation for the Scrap Discord Bot
 
-## ⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️
+ **⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️**
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
 
@@ -41,7 +41,6 @@ Learn about the Beta version of Scrap!
 ### Media
 
 All media that Scrap needs (and some more) is found here!
-
 <br/><br/>
 
 <form action="https://scrap.js.org/media">
