@@ -3,7 +3,7 @@
 
 Documentation for the Scrap Discord Bot
 
-## ⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️
+ **⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️**
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
 
