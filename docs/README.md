@@ -41,7 +41,6 @@ Learn about the Beta version of Scrap!
 ### Media
 
 All media that Scrap needs (and some more) is found here!
-
 <br/><br/>
 
 <form action="https://scrap.js.org/media">
