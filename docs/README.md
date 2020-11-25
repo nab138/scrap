@@ -24,6 +24,8 @@ Because these docs are unfinished, you have to run s!help in a discord server wh
   <input type="submit" value="Join the server" />
 </form>
 
+<br/><br/>
+
 <form action="https://scrapdashboard.herokuapp.com>
   <input type="submit" value="Dashboard" />
 </form>
