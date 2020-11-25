@@ -24,6 +24,9 @@ Because these docs are unfinished, you have to run s!help in a discord server wh
   <input type="submit" value="Join the server" />
 </form>
 
+<form action="https://scrapdashboard.herokuapp.com>
+  <input type="submit" value="Dashboard" />
+</form>
 ### What is Scrap?
 
 Scrap is a multi-purpose bot that does lots of things. Warns, afk system, music, games, and more.
