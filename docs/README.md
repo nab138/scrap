@@ -4,13 +4,6 @@
 Documentation for the Scrap Discord Bot
 
  **⚠️ Warning: This website is under construction. It is in no way final and contains a fraction of Scrap's functions. ⚠️**
- 
-## Notice
-
-All commands in these docs will start with s!, m!, or g!.
-
-Currently, only the main prefix is changeable (on the dashboard)
-The default is s! and the prefix will be refered to as s! in these docs.
 
 Because these docs are unfinished, you have to run s!help in a discord server where the bot is present for a complete list of commands.
 
